@@ -1,4 +1,4 @@
-# Converter data em php
+# Converter data em php mês por extenso
 Essa função recebe uma string data no formato "YYYY-mm-dd" e retorna uma string data no formato "dd mm ano" (em português)
 Exemplo 
   Etrada: "2020-02-12"
